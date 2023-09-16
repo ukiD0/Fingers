@@ -32,7 +32,7 @@ namespace ConsoleApp3
                     switch (c)
                     {
                         case '1':
-                            Console.WriteLine("Большой палец");
+                            Console.WriteLine("Большой палецццц");
                                 break;
                         case '2':
                             Console.WriteLine("Указательный");
